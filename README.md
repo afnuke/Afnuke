@@ -1,4 +1,4 @@
-# Bryan Lee — Afnuke
+# Afnuke
 
 **Greenville, South Carolina** · U.S. Air Force veteran · Android developer
 
