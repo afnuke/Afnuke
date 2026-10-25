@@ -14,7 +14,7 @@ The game show, haunted. Shout your answers out loud, your host Jack is listening
 
 - **GroundTruth** — *Profit per worker per year.* Walk near a store; see what its parent company really makes per worker, from audited SEC filings. (In closed testing on Google Play.)
 - **CEO Ratio** — *Owner vs. employee pay.* The CEO-to-worker pay ratio from companies' own proxy filings. At Starbucks: **6,666 to 1**. (In development.)
-- **Real Feel** — Weather made simple: real feel below the temp means it'll feel cool; above it means warm. (In the works.)
+- **864 Real Feel** — Weather made simple: real feel below the temp means it'll feel cool; above it means warm. (In the works.)
 
 **The showcase page — every app, one place:** [afnuke.github.io/groundtruth-privacy/hub](https://afnuke.github.io/groundtruth-privacy/hub/)
 
